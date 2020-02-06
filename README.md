@@ -3,5 +3,5 @@ Simple BASH script which checks your proxy list and puts working proxies into ou
 
 How to use:
 1. Clone repo into your local.
-2. Put your proxies into input_proxies.txt(thre are some example).
+2. Put your proxies into input_proxies.txt(there are some examples).
 3. Just launch main.sh and choose timeout which you need.
